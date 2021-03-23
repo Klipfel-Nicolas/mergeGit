@@ -1,3 +1,4 @@
+REMOTE
 # mergeGit
 
 Quelques lignes dans le fichier README...
