@@ -1,3 +1,4 @@
+LOCALE
 # mergeGit
 
 Quelques lignes dans le fichier README...
